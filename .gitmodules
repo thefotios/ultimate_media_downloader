@@ -1,0 +1,9 @@
+[submodule "headphones"]
+	path = headphones
+	url = git://github.com/rembo10/headphones.git
+[submodule "CouchPotatoServer"]
+	path = CouchPotatoServer
+	url = git://github.com/RuudBurger/CouchPotatoServer.git
+[submodule "Sick-Beard"]
+	path = Sick-Beard
+	url = git://github.com/midgetspy/Sick-Beard.git
