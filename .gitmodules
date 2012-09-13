@@ -7,3 +7,6 @@
 [submodule "Sick-Beard"]
 	path = Sick-Beard
 	url = git://github.com/midgetspy/Sick-Beard.git
+[submodule "sabnzbd"]
+	path = sabnzbd
+	url = git://github.com/sabnzbd/sabnzbd.git
